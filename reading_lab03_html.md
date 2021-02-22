@@ -17,24 +17,20 @@ If you want to add a comment to your code that will not be  visible in the user'
   - the id attribute: It is used to uniquely identify that element from other elements on the page.
   - Class Attribute: Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different
     from the other elements on the page.
-  - Block Elements: Some elements will always appear to start on a new line in the browser window. These are known as block level elements , Examples of block 
-     elements are:   
-      <h1>, <p>, <ul>, and <li>.
+  - Block Elements: Some elements will always appear to start on a new line in the browser window. These are known as block level elements.
   - Inline Elements: Some elements will always appear to continue the same line as their neighboring elements. These are known as inline elements. 
-    Examples of inline elements are:
-    <a>, <b>, <em>, and <img>.
-
+   
 ## Elements that are used to group together parts of the page:
   Div: The "div" element allows you to group a set of elements together
-in one block-level box, the contents of the <div> element will start on
+in one block-level box, the contents of the "div" element will start on
 a new line, but other than this it will make no difference to the presentation of the page.
-Span: The "span" element acts like an inline equivalent of the <div>
+Span: The "span" element acts like an inline equivalent of the "div"
 element. It is used to either:
 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
 2. Contain several inline elements.
 
 ## Adding characters such as angled brackets and copyright Symbols.
-! [HTML Characters](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-5yu4-Yvwp3c%2FT99DdBeFDeI%2FAAAAAAAAAR4%2FQjWbVgKh16E%2Fs1600%2Fspecial-characters.png&f=1&nofb=1)
+![HTML Characters](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F1.bp.blogspot.com%2F-5yu4-Yvwp3c%2FT99DdBeFDeI%2FAAAAAAAAAR4%2FQjWbVgKh16E%2Fs1600%2Fspecial-characters.png&f=1&nofb=1)
 
 # Chapter 17
 
