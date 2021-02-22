@@ -1,6 +1,6 @@
 # Chapter 8
 
- ## Versions of HTML :
+## Versions of HTML :
 - Each new version was designed to be an improvement on the last
 - Html versions: 
    - HTML4; released 1997       
