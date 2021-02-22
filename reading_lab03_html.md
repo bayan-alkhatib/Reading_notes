@@ -3,9 +3,9 @@
  ## Versions of HTML :
 - Each new version was designed to be an improvement on the last
 - Html versions: 
-+ HTML4; released 1997       
-+ XHTML1.0; released 2000       
-+ HTML5; released 2000
+   - HTML4; released 1997       
+   - XHTML1.0; released 2000       
+   - HTML5; released 2000
 
 ## Add comments to your code in HTML:
 If you want to add a comment to your code that will not be  visible in the user's browser; Just insert below text:
@@ -13,20 +13,22 @@ If you want to add a comment to your code that will not be  visible in the user'
 
 ## Global Attributes:
 - which are attributes that can be used on any element.
--Global Atttibutes:
-+ the id attribute: It is used to uniquely identify that element from other elements on the page.
-+ Class Attribute: Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different from the other elements on the page.
-+ Block Elements: Some elements will always appear to start on a new line in the browser window. These are known as block level elements , Examples of block elements are:
-< <h1>, <p>, <ul>, and <li>.>
-+ Inline Elements: Some elements will always appear to continue the
-same line as their neighboring elements. These are known as inline elements. Examples of inline elements are:
-< <a>, <b>, <em>, and <img>.>
+- Global Atttibutes:
+  - the id attribute: It is used to uniquely identify that element from other elements on the page.
+  - Class Attribute: Sometimes, rather than uniquely identifying one element within a document, you will want a way to identify several elements as being different
+    from the other elements on the page.
+  - Block Elements: Some elements will always appear to start on a new line in the browser window. These are known as block level elements , Examples of block 
+     elements are:   
+      <h1>, <p>, <ul>, and <li>.
+  - Inline Elements: Some elements will always appear to continue the same line as their neighboring elements. These are known as inline elements. 
+    Examples of inline elements are:
+    <a>, <b>, <em>, and <img>.
 
 ## Elements that are used to group together parts of the page:
-<Div>:  The <div> element allows you to group a set of elements together
+  Div: The "div" element allows you to group a set of elements together
 in one block-level box, the contents of the <div> element will start on
 a new line, but other than this it will make no difference to the presentation of the page.
-<Span>: The <span> element acts like an inline equivalent of the <div>
+Span: The "span" element acts like an inline equivalent of the <div>
 element. It is used to either:
 1. Contain a section of text where there is no other suitable element to differentiate it from its surrounding text.
 2. Contain several inline elements.
